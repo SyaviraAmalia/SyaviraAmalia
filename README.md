@@ -1,18 +1,10 @@
-# Hi 🧠 I'm Syavira.
+# Hi ✨ I'm Syavira.
 
 A fresh graduate in Informatics with a strong focus on **Artificial Intelligence** and **Natural Language Processing**. Experienced in building end-to-end machine learning solutions — from data preprocessing and model fine-tuning to deployment.
 
-- 🔭 I'm currently deepening my knowledge in **NLP, Large Language Models (LLM), and Data Analytics**
-- ⚡ Feel free to ask me about Machine Learning, NLP, or Model Optimization
-- ✉️ How to reach me: syaviraamalia53@gmail.com
-
-## Currently Focused On
-
-| Area | Detail |
-|---|---|
-| 🧠 Research | Fine-tuning Transformer models for NLP tasks |
-| 📊 Learning | Data Analytics & Statistical Modeling |
-| 🛠️ Building | End-to-end ML pipelines with deployment |
+- ⚡ I'm currently deepening my knowledge in **NLP, Large Language Models (LLM), and Data Analytics**
+- 💬 Feel free to ask me about Machine Learning, NLP, or Model Optimization
+- 🔗 How to reach me: syaviraamalia53@gmail.com
 
 ## Tech Stack
 
@@ -35,15 +27,6 @@ A fresh graduate in Informatics with a strong focus on **Artificial Intelligence
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## Core Skills
-
-`Artificial Intelligence` `Machine Learning` `Deep Learning` `Natural Language Processing (NLP)` `Large Language Models (LLM)` `Data Analytics` `Feature Engineering` `Model Optimization` `Model Deployment` `Statistical Analysis`
-
-## Reach Me On
-
-- [LinkedIn](https://linkedin.com/in/syavira-amalia-0104a227a)
-- [Email](mailto:syaviraamalia53@gmail.com)
-- [Portfolio](https://SyaviraAmalia.github.io/porto)
-
 
 `Artificial Intelligence` `Machine Learning` `Deep Learning` `Natural Language Processing (NLP)` `Large Language Models (LLM)` `Data Analytics` `Feature Engineering` `Model Optimization` `Model Deployment` `Statistical Analysis`
 
