@@ -1,6 +1,6 @@
 # Hi ✨ I'm Syavira.
 
-A fresh graduate in Informatics with a strong focus on **Artificial Intelligence** and **Natural Language Processing**. Experienced in building end-to-end machine learning solutions — from data preprocessing and model fine-tuning to deployment.
+A fresh graduate in Informatics with a strong focus on **Artificial Intelligence** and **Data Analytics**. Experienced in building end-to-end machine learning solutions — from data preprocessing and model fine-tuning to deployment.
 
 - ⚡ I'm currently deepening my knowledge in **NLP, Large Language Models (LLM), and Data Analytics**
 - 💬 Feel free to ask me about Machine Learning, NLP, or Model Optimization
